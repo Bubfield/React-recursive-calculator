@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-recursive-calculator/static/css/main.512e121f.css",
+    "main.js": "/React-recursive-calculator/static/js/main.a4a00b79.js",
+    "static/js/787.d3befce1.chunk.js": "/React-recursive-calculator/static/js/787.d3befce1.chunk.js",
+    "index.html": "/React-recursive-calculator/index.html",
+    "main.512e121f.css.map": "/React-recursive-calculator/static/css/main.512e121f.css.map",
+    "main.a4a00b79.js.map": "/React-recursive-calculator/static/js/main.a4a00b79.js.map",
+    "787.d3befce1.chunk.js.map": "/React-recursive-calculator/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.512e121f.css",
+    "static/js/main.a4a00b79.js"
+  ]
+}
